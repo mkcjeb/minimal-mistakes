@@ -114,7 +114,7 @@ analytics:
 # Site Author
 author:
   name             : "Michelle Kae Celine Jo-anne Bantugon"
-  avatar           : "/docs/assets/images/headshot_mkcjeb.JPG"
+  avatar           : "docs/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "San Francisco Bay Area"
   email            : joannebantugon.che@gmail.com
